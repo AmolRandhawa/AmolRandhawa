@@ -1,7 +1,9 @@
 ### About me
 
-# Amol Randhawa 
-# Computer Science
+## Amol Randhawa 
+## Computer Science
+## I am looking to collaborate on java projects
+## I am currently learning Computer Organizations and it's usage 
 
 <!--
 **AmolRandhawa/AmolRandhawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
