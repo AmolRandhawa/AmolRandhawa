@@ -1,7 +1,8 @@
 ### About me
 
-## Amol Randhawa 
-## Computer Science
+## Hi, I am Amol Randhawa 
+## I am a Computer Science major at Wright State University
+## I am interested in software development
 ## I am looking to collaborate on java projects
 ## I am currently learning Computer Organizations and it's usage 
 
