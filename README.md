@@ -3,8 +3,8 @@
 ## Hi, I am Amol Randhawa 
 ## I am a Computer Science major at Wright State University
 ## I am interested in software development
-## I am looking to collaborate on java projects
-## I am currently learning Computer Organizations and it's usage 
+## I am looking to collaborate on java & C++ projects
+## I am currently learning JavaScript.
 
 <!--
 **AmolRandhawa/AmolRandhawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
