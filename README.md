@@ -12,7 +12,7 @@ I'm a Computer Science student at Wright State University, pursuing a B.S. in Co
 
 ## Technical Skills
 
-**Languages:** Java, C, C++, JavaScript, SQL, HTML, CSS
+**Languages:** Java, Python, C, C++, JavaScript, SQL, HTML, CSS
 
 **Technologies:** Node.js, Express, PostgreSQL, Git, Linux, AWS
 
@@ -37,5 +37,4 @@ Expected December 2026
 
 ## Connect With Me
 
-- [LinkedIn](YOUR-LINKEDIN-URL)
-- [GitHub](https://github.com/AmolRandhawa)
+- [LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/amol-randhawa-55241a361/?isSelfProfile=true))
