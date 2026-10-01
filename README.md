@@ -4,11 +4,11 @@ I'm a Computer Science student at Wright State University, pursuing a B.S. in Co
 
 ## About Me
 
-- 🎓 B.S. Computer Science, Wright State University
-- 🔐 Cybersecurity Analytics
-- 💻 Interested in software development and cybersecurity
-- 🌱 Currently building personal projects and improving my backend development skills
-- 📍 Dayton, Ohio
+-  B.S. Computer Science, Wright State University
+-  Cybersecurity Analytics
+-  Interested in software development and cybersecurity
+-  Currently building personal projects and improving my backend development skills
+-  Dayton, Ohio
 
 ## Technical Skills
 
