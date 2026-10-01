@@ -1,22 +1,41 @@
-### About me
+# Hi, I'm Amol Randhawa 👋
 
-## Hi, I am Amol Randhawa 
-## I am a Computer Science major at Wright State University
-## I am interested in software development
-## I am looking to collaborate on java & C++ projects
-## I am currently learning JavaScript.
+I'm a Computer Science student at Wright State University, pursuing a B.S. in Computer Science with a focus on Cybersecurity Analytics. I'm interested in software development, cybersecurity, and backend development.
 
-<!--
-**AmolRandhawa/AmolRandhawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 🎓 B.S. Computer Science, Wright State University
+- 🔐 Cybersecurity Analytics
+- 💻 Interested in software development and cybersecurity
+- 🌱 Currently building personal projects and improving my backend development skills
+- 📍 Dayton, Ohio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technical Skills
+
+**Languages:** Java, C, C++, JavaScript, SQL, HTML, CSS
+
+**Technologies:** Node.js, Express, PostgreSQL, Git, Linux, AWS
+
+## Projects
+
+### Personal Finance Tracker
+A full-stack application for tracking personal income and expenses.
+
+**Technologies:** JavaScript, Node.js, Express, PostgreSQL
+
+[View Project](https://github.com/AmolRandhawa/personal-finance-tracker)
+
+### CanCook
+A team-based web application developed using JavaScript, Express, and PostgreSQL.
+
+## Education
+
+**Wright State University**  
+B.S. Computer Science  
+Certification in Cybersecurity Analytics  
+Expected December 2026
+
+## Connect With Me
+
+- [LinkedIn](YOUR-LINKEDIN-URL)
+- [GitHub](https://github.com/AmolRandhawa)
