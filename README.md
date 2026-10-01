@@ -37,4 +37,4 @@ Expected December 2026
 
 ## Connect With Me
 
-- [LinkedIn]([YOUR-LINKEDIN-URL](https://www.linkedin.com/in/amol-randhawa-55241a361/?isSelfProfile=true))
+- [LinkedIn](https://www.linkedin.com/in/amol-randhawa-55241a361/?isSelfProfile=true)
